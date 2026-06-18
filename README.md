@@ -52,7 +52,7 @@ I build and ship end-to-end AI systems — retrieval, LLM inference, and RAG pip
 
 **Senior Software Engineer** — *Clearwater Security* · Apr 2026 – Present
 
-**Data Scientist (Promoted)** — *Krista AI* · Dec 2025 – Mar 2026
+**Data Scientist** — *Krista AI* · Dec 2025 – Mar 2026
 - Built and productionized self-hosted LLMs (Qwen-32B, GPT-OSS) behind an internal **LLM inference API**, achieving **70% cost reduction** while serving **10k+ daily requests**.
 
 **Software Engineer — Machine Learning** — *Krista AI* · Nov 2024 – Nov 2025
