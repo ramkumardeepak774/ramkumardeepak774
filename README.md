@@ -32,6 +32,12 @@ I build and ship end-to-end AI systems — retrieval, LLM inference, and RAG pip
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 `Hibernate` · `JUnit`
 
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+
 **DevOps / Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
@@ -66,6 +72,15 @@ I build and ship end-to-end AI systems — retrieval, LLM inference, and RAG pip
 - Implemented a model migration system handling scikit-learn upgrades (1.3.1 → 1.5.0) across **460+ models**.
 - Fine-tuned a GPT model to emit structured JSON for dynamic chatbot flows.
 - Built a RAG system (BLOOM-7B + ChromaDB) for document Q&A and an automated ML model-evaluation framework.
+
+---
+
+## 📁 Projects
+
+**Portfolio Growth Engine** — Full-stack personal finance analytics platform
+- Built an end-to-end investment tracking system: FastAPI + PostgreSQL backend, Next.js 16 frontend, deployed on Railway/Vercel
+- Implemented XIRR/CAGR performance calculation, FIFO tax-lot matching for capital-gains reporting, and Indian financial-year-aware tax logic
+- Shipped with full test coverage (pytest + Vitest), CI/CD via GitHub Actions with branch protection and automated deploys
 
 ---
 
